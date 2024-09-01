@@ -2,6 +2,7 @@
 <html>
 <body>
 
+<<<<<<< HEAD
 <h1>This is my first line.</h1>
 <h1>This is my second line.</h1>
 <h1>This is my third line.</h1>
@@ -10,6 +11,10 @@
 
 <h1>This is my sixth line.</h1>
 
+=======
+<h1>This is my first line for design branch.</h1>
+<h1>This is my second line for design branch from github.</h1>
+>>>>>>> design
 
 </body>
 </html>
