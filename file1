@@ -8,13 +8,17 @@
 <h1>This is my third line.</h1>
 <h1>This is my forth line.</h1>
 <h1>This is my fifth line.</h1>
-
 <h1>This is my sixth line.</h1>
 
+<<<<<<< HEAD
 =======
 <h1>This is my first line for design branch.</h1>
 <h1>This is my second line for design branch from github.</h1>
 >>>>>>> design
+=======
+<h1>This is my seventh line.</h1>
+
+>>>>>>> 6dd40dae3b5f367107e3997d54327d1566d80205
 
 </body>
 </html>
